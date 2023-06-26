@@ -1,10 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-
-    }
-    public void lolo(){
+        System.out.println("Thanner stinkt");
+        System.out.println("thanner stinkt immer noch leider:( ");
 
 
     }
+
 }
